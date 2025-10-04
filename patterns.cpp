@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-
+//this is the first pattern
 void pattern1(int n){
     for(int i=0;i<n;i++){
         for(int j=0;j<n;j++){
@@ -12,6 +12,7 @@ void pattern1(int n){
     cout<<endl;
 }
 
+//this is second pattern
 void pattern2(int n){
     for(int i=1;i<n;i++){
         for(int j =0;j<i;j++){
