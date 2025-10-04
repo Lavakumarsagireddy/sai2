@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std; //lava
 
+
+//new line
 //this is the first pattern
 void pattern1(int n){
     for(int i=0;i<n;i++){
