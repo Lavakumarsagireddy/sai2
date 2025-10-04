@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; //lava
 
 //this is the first pattern
 void pattern1(int n){
